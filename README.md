@@ -62,7 +62,7 @@ Assurez-vous que Python 3 est installé sur votre système. Aucun module externe
 4. **Résultats** 
 Les résultats de l'analyse sont enregistrés dans un fichier texte dans le même répertoire que le script. Les fichiers seront nommés maximal_repeats1.txt, maximal_repeats2.txt, etc. Chaque ligne de ce fichier de sortie contient :
 
-La séquence répétée
-Sa longueur
-Les positions de chaque occurrence
-Les lettres qui encadrent chaque occurrence
+- La séquence répétée
+- Sa longueur
+- Les positions de chaque occurrence
+- Les lettres qui encadrent chaque occurrence
